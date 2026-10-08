@@ -2,7 +2,7 @@
 Computer Science student | Space &amp; Deep-Tech Enthusiast
 Hi My name is Ourielle Aviram 
 
-B.Sc. computer science student at Reichman University and a former lieutenant at the AF.  Passion for aeronautics, space, physics, systems programming, and robotics.  
+B.Sc. computer science student at Reichman University and a former lieutenant at the AF.  Passion for system programming.
 * ✉️  You can contact me at [ouriellea@gmail.com](mailto:ouriellea@gmail.com)
 * 🧠  I'm currently learning Rust language
 * 💬  My true passion is eating tomatoes... but don't tell anyone
